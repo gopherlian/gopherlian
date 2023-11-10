@@ -38,4 +38,6 @@ Have a project idea, want to discuss Golang, Kafka, or just share some Mandalori
 
 Feel free to reach out for a coding collaboration, AI banter, or just to share Mandalorian memes. The force is strong with this README!
 
+![Go Star Wars](images/Go_StarWars.png)
+
 May the Code Be with You! 🖖
