@@ -1,14 +1,12 @@
 # Hi there! 👋 I'm Gopherlian 🚀
 
-![Gopherlian Banner](images/gopherlian_banner.png)
+![Gopherlian Banner](images/Gopherlian.png)
 
 Welcome to my GitHub playground! I'm passionate about blending the best of both worlds: the efficiency of Golang and the thrilling galaxy of asynchronous distributed systems. 🌐✨
 
 ## About Me
 
 Hey, I'm Gopherlian, a coding enthusiast exploring the realms of AI in the Golang universe. You'll often find me diving into the fascinating world of distributed systems, particularly with Kafka and the amazing Watermill library.
-
-![Gopherlian Avatar](images/gopherlian_avatar.png)
 
 ## 💻 Tech Stack
 
