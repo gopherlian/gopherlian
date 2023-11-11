@@ -33,8 +33,8 @@ Building robust and scalable distributed systems is my jam. Kafka and Watermill 
 
 Have a project idea, want to discuss Golang, Kafka, or just share some Mandalorian memes? Reach out! I'm always up for a good conversation and collaboration.
 
-[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/gopherlian)
-[![Twitter](images/twitter.png)](https://twitter.com/a_l_b_e_r_t_o__)
+[<img src="images/linkedin.png" alt="LinkedIN" width="50">](https://www.linkedin.com/in/gopherlian)
+[<img src="images/twitter.png" alt="Twitter" width="50">](https://twitter.com/a_l_b_e_r_t_o__)
 
 Feel free to reach out for a coding collaboration, AI banter, or just to share Mandalorian memes. The force is strong with this README!
 
